@@ -1,0 +1,2 @@
+set /a sum = 20+40
+set /a mod = 20%40

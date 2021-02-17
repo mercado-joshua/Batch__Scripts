@@ -1,0 +1,7 @@
+:label1
+command
+command
+
+:label2
+command
+command

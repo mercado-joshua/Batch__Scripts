@@ -1,0 +1,4 @@
+set /p name=Please Enter your Name:
+
+echo Please Enter your Name:
+set name=

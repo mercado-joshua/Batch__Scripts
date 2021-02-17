@@ -1,0 +1,3 @@
+set // displays all environment variables
+
+set var // displays all environment variables that starts with "var"

@@ -1,0 +1,11 @@
+
+
+:nameOfFunction
+...
+
+call :anotherFunction
+goto :eof
+
+:anotherFunction
+...
+goto :eof

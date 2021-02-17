@@ -1,0 +1,3 @@
+rem comment starts here.. slows down program
+
+:: This is a comment/ and also a label

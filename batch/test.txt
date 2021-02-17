@@ -1,0 +1,25 @@
+# this is a comment, usually ignored
+# name="joshua mercado"
+# age="22"
+# location="mabalacat"
+# hobby="none"
+# work="none"
+
+name="joshua mercado"
+age="22"
+location="mabalacat"
+hobby="none"
+work="none"
+
+# this is a comment, usually ignored
+# name="joshua mercado"
+# age="22"
+# location="mabalacat"
+# hobby="none"
+# work="none"
+
+name="joshua mercado"
+age="22"
+location="mabalacat"
+hobby="none"
+work="none"

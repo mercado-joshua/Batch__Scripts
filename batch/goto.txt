@@ -1,0 +1,12 @@
+:label1
+command
+command
+
+:label2
+command
+command
+
+
+goto label1
+
+goto label2

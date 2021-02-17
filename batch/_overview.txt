@@ -1,0 +1,61 @@
+1. commands
+
+    mkdir
+    rmdir
+    del
+    move
+    mv
+    copy
+
+    %username% - joshua
+    %cd% - c:/
+
+2. scripting fundamentals
+
+    1. data types
+    2. comments
+    3. variables / input
+    4. delayed variable expansion
+    5. environment variables
+    6. escaping characters
+    7. string concatenation
+    8. arithmetic operation
+    9. comparison keyword
+
+    9. labels
+    10. goto
+
+    11. function
+    12. function parameters
+    13. function return
+    14. function local scope
+    15. function local scope return
+    16. function passed variables
+
+    17. if / else
+
+        if
+        if not
+        if exist fileName
+        if not exist
+
+    18. while loop
+    19. for loop
+        - numbers
+        - strings
+        - directories
+        - files
+        - options
+    20. breaking loop
+
+    21. redirection
+    22. choice
+
+    23. substring
+    24. string substitution
+    25. string quotations
+
+    26. global function tool - create function that works outside the script and used to other script
+        - build array
+        - string quotation
+
